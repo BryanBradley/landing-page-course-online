@@ -8,13 +8,10 @@ Landing page promosi kelas "Mastering LinkedIn for Career Growth". Fokus pada st
 - CSS3 (custom properties, grid & flexbox, responsive breakpoints, gradient styling)
 - Vanilla JavaScript (hamburger menu toggle + accessibility states)
 - Google Fonts (Poppins)
-- SVG inline (ikon sosial)
 
 ## 🚀 Live Demo
 
-Letakkan URL deployment Anda di sini setelah di‑hosting (misal GitHub Pages / Netlify / Vercel):
-
-`https://contoh-domain.com` _(ganti setelah deploy)_
+https://landing-page-course-online.vercel.app/
 
 ### Cara cepat deploy (opsional)
 
@@ -66,4 +63,4 @@ Silakan gunakan / modifikasi untuk pembelajaran atau proyek pribadi. Tambahkan l
 
 ---
 
-Jika butuh bantuan lanjutan (deploy, optimasi, atau tambah fitur), tinggal minta saja. Selamat berkarya!
+Selamat berkarya!
